@@ -21,10 +21,8 @@ The dataset used in this project contains **[briefly describe your dataset and i
 It was used as the primary data source throughout the analytical process.
 
 **Dataset Information:**
-- **Source:** [Dataset source or link]
+- **Source:** https://drive.google.com/file/d/1LDM_yA8lx5RBsgXFjknYezhrVwUzNVNM/view?usp=drive_link
 - **Format:** CSV / Excel
-- **Size:** [Number of rows and columns]
-- **Key Features:** [Mention important columns or variables]
 
 ## 3. Tools & Technologies
 
@@ -91,9 +89,8 @@ The Power BI dashboard provides an interactive overview of the analysis, allowin
 
 **Dashboard Preview:**
 
-[Insert Power BI Dashboard Screenshot Here]
+<img width="3075" height="1763" alt="Customer Behavior Dashboard pdf_page-0001" src="https://github.com/user-attachments/assets/7a0a6bb5-7409-4ab3-8c61-3b95ec5e459f" />
 
-[View Interactive Dashboard](#)
 
 ## 6. Key Results & Insights
 
