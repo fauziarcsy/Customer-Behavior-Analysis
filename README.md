@@ -179,7 +179,7 @@ Explore the analytical report and project presentation in their respective folde
 
 Aspiring Data Analyst | Interested in Data Analytics, SQL, Python, and Business Intelligence.
 
-- **GitHub:** [Your GitHub Profile]
+- **GitHub:** fauziarcsy
 - **LinkedIn:** linkedin.com/in/ahmadfauziardi
 - **Email:** fauziarcsy@gmail.com
 
